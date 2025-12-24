@@ -1,4 +1,4 @@
-# 🎬 MultiCutter Edit – Versão 2.8.0
+# 🎬 Multi Cutter Edit – Versão 2.8.0
 
 O **MultiCutter Edit** é uma ferramenta de edição de vídeo cirúrgica, projetada para remover bordas indesejadas, cortar trechos específicos e converter formatos com precisão e rapidez.
 Ele combina o poder do Python + FFmpeg com uma interface intuitiva, permitindo que qualquer usuário realize edições 
