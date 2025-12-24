@@ -57,7 +57,7 @@ A licença é **vitalícia** e vinculada ao dispositivo.
 
 Para dúvidas, sugestões ou suporte técnico:  
 **Tavares InforTech**  
-https://www.tavaresinfortech.com
+https://www.tavaresinfortech.com/contato
 
 ---
 
