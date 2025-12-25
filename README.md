@@ -1,4 +1,4 @@
-# 🎛️ Win Controller Ultimate - Versão 1.5.0
+# 🎛️ Win Controller Ultimate - Versão 1.5.1
 
 O **Win Controller Ultimate** é uma ferramenta avançada para gerenciamento completo de janelas no Windows. Ele permite visualizar, mover, redimensionar, organizar e monitorar janelas e processos com precisão milimétrica, oferecendo controle total sobre seu ambiente de trabalho.
 
