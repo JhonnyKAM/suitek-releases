@@ -30,8 +30,8 @@ A **Suíte K** foca em utilitários de sistema, automação de mídia e ferramen
 
 ### ☕ A Casa é Sua
 
-Obrigado pela visita! Este repositório é um organismo vivo e estamos sempre de portas abertas.
-Fique à vontade para testar, sugerir melhorias ou apenas acompanhar a evolução das ferramentas.
+Obrigado pela visita! Este repositório é uma espaçonave e estamos sempre de portas abertas.
+Fique à vontade para acionar, sugerir melhorias ou apenas acompanhar a evolução das ferramentas.
 
 **O café está sempre quente e o código sempre no forno.**
 
