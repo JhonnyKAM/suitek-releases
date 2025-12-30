@@ -1,4 +1,4 @@
-# 🚀 K-Suite Distributions
+# 🚀 Suite-K Distributions
 
 > "Só vale a pena ser feito, se é feito com amor."
 
