@@ -33,7 +33,7 @@ que não foram salvas.
 ---
 
 ## 🔑 Licenciamento
-A versão completa pode ser ativada em um procedimento automatizado com uma licença permanente no valor de **R$ 20,99**.
+A versão completa é ativada em um procedimento automatizado com licença permanente no valor de **R$ 20,99**.
 
 ---
 
