@@ -1,60 +1,47 @@
-# ⬇️ MultDown Ultimate - Versão 6.4.0
+# 📸 Hub Restaurer - Versão 1.7.0
 
-O **MultDown Ultimate** é um aplicativo avançado para download de vídeos, áudios e stories de diversas plataformas online.  
-Desenvolvido para oferecer **velocidade, estabilidade e automação**, ele utiliza o motor turbo **Aria2c**, garantindo desempenho superior em qualquer tipo de download.
-
----
-
-## ✨ Recursos
-
-- Baixe **vídeos, áudios e stories** com poucos cliques.
-- **Aria2c Turbo Engine** integrado para downloads mais rápidos.
-- **NoveFlix Player & Stream** embutido.
-- **Maratonas Automáticas**: baixe capítulos em sequência informando apenas o código e o intervalo.
-- Interface moderna, intuitiva e leve.
-- Atualizações frequentes e suporte dedicado.
+O **Hub Restaurer** é uma hub (plataforma) avançado de restauração e aprimoramento de imagens desenvolvida para recuperar fotos antigas, danificadas, desfocadas ou de baixa resolução com precisão impressionante. Combinando modelos de última geração como Real-ESRGAN, CodeFormer, ColorGAN, BeautyGAN e RestoreFormer++, a ferramenta entrega resultados profissionais mesmo em cenários extremos de degradação visual
 
 ---
 
-## 🖥️ Requisitos
+## 🧩 Recursos Principais
 
-- Windows 10 ou superior  
-- Conexão com a internet  
-- 45 MB de espaço livre  
+### 🔍 Presets pre estabelecidos
+- Aumenta a resolução.
+- Recuperação facial.
+- Colorização, remoção de ruídos e muito mais.
+
+### ⚙️ Log de Ações
+- Todo o procedimento é relatado visualmente.
+
+### 🛠️ Propriedades Avançadas
+- Preset para recuperação profunda.
+- Recursos de IA com acionamento local.
+- Não precisa de internet para as funcionalidades do app.
+
+### 📡 Monitoramento em Tempo Real
+- O usuário tem backup de todas as restaurações mesmo as
+que não foram salvas.
 
 ---
 
-## 📦 Instalação
-
-1. Baixe o instalador na seção **Releases**.  
-2. Execute o arquivo `.exe`.  
-3. Siga as instruções na tela.  
-4. Abra o MultDown Ultimate e aproveite.
+## 💻 Instalação
+1. Execute o instalador incluído neste release.  
+2. Siga as instruções exibidas na tela.  
+3. Após a instalação, abra o Win Controller Ultimate pelo menu Iniciar.
 
 ---
 
 ## 🔑 Licenciamento
-
-O MultDown Ultimate utiliza um sistema de ativação simples e seguro.  
-A licença é **vitalícia** e vinculada ao dispositivo.
-
----
-
-## 🛠️ Tecnologias Utilizadas
-
-- **C# / WPF**
-- **Aria2c**
-- **.NET Framework / .NET Runtime**
-- Sistema próprio de ativação e validação
+A versão completa pode ser ativada em um procedimento automatizado com uma licença permanente no valor de **R$ 20,99**.
 
 ---
 
 ## 📞 Suporte
-
-Para dúvidas, sugestões ou suporte técnico:  
-**Tavares InforTech**  
+Para dúvidas, sugestões ou suporte técnico, visite:  
 https://www.tavaresinfortech.com/contato
 
 ---
 
-© 2025 Tavares InforTech — Todos os direitos reservados.
+## 📜 Histórico de Versões
+Consulte o arquivo `CHANGELOG.md` incluído neste release.
