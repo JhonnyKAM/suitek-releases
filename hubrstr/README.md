@@ -32,8 +32,9 @@ que não foram salvas.
 
 ---
 
-## 🔑 Licenciamento
-A versão completa é ativada em um procedimento automatizado com licença permanente no valor de **R$ 20,99**.
+## 🛠️ Tecnologia
+
+Desenvolvido em **C# + WPF**, **Python** e **Power Shell**.
 
 ---
 
@@ -46,6 +47,3 @@ https://www.tavaresinfortech.com/contato
 © 2025 Tavares InforTech — Todos os direitos reservados.
 
 ---
-
-## 📜 Histórico de Versões
-Consulte o arquivo `CHANGELOG.md` incluído neste release.
