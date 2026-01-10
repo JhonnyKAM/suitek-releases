@@ -28,7 +28,7 @@ que não foram salvas.
 ## 💻 Instalação
 1. Execute o instalador incluído neste release.  
 2. Siga as instruções exibidas na tela.  
-3. Após a instalação, abra o Win Controller Ultimate pelo menu Iniciar.
+3. Após a instalação, abra o Hub Restaurer pelo menu Iniciar.
 
 ---
 
