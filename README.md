@@ -37,5 +37,5 @@ Fique à vontade para acionar, sugerir melhorias ou apenas acompanhar a evoluç�
 
 ---
 <div align="center">
-    <i>Desenvolvido por Tavares InforTech</i>
+    <i>© 2026 Desenvolvido por Tavares InforTech</i>
 </div>
