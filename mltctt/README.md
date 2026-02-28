@@ -1,17 +1,19 @@
-# 🎬 Multi Cutter Edit – Versão 2.8.0
+# 🎬 Multi Cutter Edit – Versão 2.9.0
 
-O **MultiCutter Edit** é uma ferramenta de edição de vídeo cirúrgica, projetada para remover bordas indesejadas, cortar trechos específicos e converter formatos com precisão e rapidez.
+O **MultiCutter Edit** é uma ferramenta de edição de vídeo cirúrgica, projetada para remover bordas indesejadas, cortar áreas acima, abaixo e nas laterais do vídeo, cortar trechos específicos e converter formatos com precisão e rapidez, além de permitir trocar o áudio de um vídeo.
 Ele combina o poder do Python + FFmpeg com uma interface intuitiva, permitindo que qualquer usuário realize edições 
-profissionais sem complexidade.
+profissionais sem complexidade, **MULTI CUTTER EDIT FOI PROJETADO E É INDICADO PARA EDIÇÃO DE VÍDEOS COM TAMANHO DE ATÉ 1 GIGABYTE**.
 
 ---
 
 ## ✨ Recursos
 
-- **Remoção Automática** de Bordas Letterbox.  
-- **Corte de Trechos** Específicos com Precisão.  
-- **Conversão** de Formatos MP4, MKV, AVI e MP3.  
-- **Linha do Tempo** Visual na Interface
+- **NOVO - Corte Visual** do Vídeo Acima, Abaixo e nas Laterais.
+- **NOVO - Mude o áudio de um vídeo** de Forma Rápida e sem Complicação.
+- **Remoção Automática** de Bordas Letterbox.
+- **Corte de Trechos** Específicos com Precisão.
+- **Conversão** de Formatos MP4, MKV, AVI e MP3.
+- **Linha do Tempo** Visual na Interface.
 - **Processamento Otimizado** Python + FFmpeg.
 - **Interface moderna**, Intuitiva e Leve.
 
@@ -29,7 +31,7 @@ profissionais sem complexidade.
 
 1. Baixe o instalador na seção **Releases**.  
 2. Execute o arquivo `.exe`.  
-3. Siga as instruções na tela.  
+3. Atenção e siga as instruções nas mensagens de instalação.  
 4. Abra o **Multi Cutter Edit** e aproveite.
 
 ---
